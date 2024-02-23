@@ -9,8 +9,7 @@
 <a href="https://github.com/shaiktahseen">My GitHub
 <br>
 <br>
-<img src="https://avatars.githubusercontent.com/u/126344231?v=4" width="150" height="150"></a>
-  
+<img src="https://avatars.githubusercontent.com/u/126344231?v=4" width="150" height="150"></a> 
   
 <h2>Types of list</h2>
   
